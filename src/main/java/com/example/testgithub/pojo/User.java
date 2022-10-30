@@ -6,4 +6,5 @@ package com.example.testgithub.pojo;
  */
 public class User {
 
+
 }
